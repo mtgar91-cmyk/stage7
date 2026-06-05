@@ -11,7 +11,7 @@ logger = logging.getLogger(__name__)
 
 API_ID: int = int(os.getenv("API_ID", "38720187"))
 API_HASH: str = os.getenv("API_HASH", "a5c27bc42b391f32db86befcabc68094")
-BOT_TOKEN: str = os.getenv("BOT_TOKEN", "8495856594:AAEASdXfZV4bouc39CcNqdcw80gP6FfFDUw")
+BOT_TOKEN: str = os.getenv("BOT_TOKEN", "8694326037:AAHmmY1b2KPEEkTEuBDG_d28_JANLcOuB54")
 ADMIN_ID: int = int(os.getenv("OWNER_ID", "6668195885"))
 DATABASE_URL: str = os.getenv("DATABASE_URL", "postgresql://postgres:password@helium/heliumdb?sslmode=disable")
 
